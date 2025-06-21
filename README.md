@@ -27,7 +27,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Crivoru4e4ka/mesto-project.git
+   git clone https://github.com/Crivoru4e4ka/mesto_project.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
@@ -47,4 +47,4 @@
    ```bash
    npm run build
    ```
-   Готовые файлы появятся в папке `dist`. 
+   Готовые файлы появятся в папке `dist`.
